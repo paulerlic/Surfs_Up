@@ -1,5 +1,7 @@
 # surfs_up
-John Molenda 2021 Fall Columbia Bootcamp Module 9 Repo
+Module 9 Repo
+
+![image](https://raw.githubusercontent.com/paulerlic/Surfs_Up/main/Imgs/surfer-dude.gif)
 
 ## Analysis Overview
 My boss, W.Avy wants to understand the temperature trends on Oahu before opening up his surf and ice cream shop year round. To best understand the weather, he felt that gathering data from June and December would be the most indicative of the temperature fluctuations on the island and give him the most information on whether or not to open up his shop.
