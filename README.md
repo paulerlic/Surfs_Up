@@ -5,8 +5,8 @@ John Molenda 2021 Fall Columbia Bootcamp Module 9 Repo
 My boss, W.Avy wants to understand the temperature trends on Oahu before opening up his surf and ice cream shop year round. To best understand the weather, he felt that gathering data from June and December would be the most indicative of the temperature fluctuations on the island and give him the most information on whether or not to open up his shop.
 
 ## Results
-![image](https://user-images.githubusercontent.com/92773195/146651989-99eba7cf-e962-4f8d-a941-b69ac10577ef.png)
-![image](https://user-images.githubusercontent.com/92773195/146652371-4adf2848-f7c8-4da4-8da2-c64e2507430a.png)
+![image](https://raw.githubusercontent.com/paulerlic/Surfs_Up/main/Imgs/Results%231.png)
+![image](https://raw.githubusercontent.com/paulerlic/Surfs_Up/main/Imgs/Results%232.png)
 
 * The average temperature in June is just shy of 75 degrees on Oahu while the average temperature in December is approximately 71 degrees.
 * The minimum temperature in December is 8 degrees colder (56 F) than it is in June (64 F)
